@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Fikret Mert Gultekin</h1>
 <h3 align="center">A passionate fullstack developer from Sweden/Turkey</h3>
@@ -17,7 +16,6 @@
 
 - 📄 Know about my experiences and want to reach me [https://www.linkedin.com/in/fikret-mert-gultekin/](https://www.linkedin.com/in/fikret-mert-gultekin/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
