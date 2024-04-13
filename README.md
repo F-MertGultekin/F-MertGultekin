@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Fikret Mert Gultekin</h1>
-<h3 align="center">A passionate fullstack developer from Sweden/Turkey</h3>
+<h3 align="center">A passionate fullstack developer and Software Engineering and Technology M.Sc student at Chalmers University of Technology (Sweden) from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-mertgultekin&label=Profile%20views&color=0e75b6&style=flat" alt="f-mertgultekin" /> </p>
 
